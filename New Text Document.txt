@@ -1,0 +1,126 @@
+assignment.html<!DOCTYPE html>
+<html>
+<head>
+    <titile>Assignment Unit 3 webdevelope</titile>
+</head>
+<body>
+    <font color="blue">1</font>
+    <font color="pink">2</font>
+    <font color="green">3</font>
+    <font color="orange">4</font>
+    <font color="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.">5</font>
+<font color="red">6</font>
+<font color="laborum">7</font>
+<font color="darkred">8</font>
+<font color="black">9</font>
+<font color="brown">10</font>
+</body>
+<style>
+    font{
+        font-weight:  bold;
+    }
+</style>
+
+    <body>
+         1<sup>2</sup> = 1<br />
+         2<sup>2</sup> = 4<br />
+         3<sup>2</sup> = 9<br />
+         4<sup>2</sup> = 16<br />
+         5<sup>2</sup> = 25<br />
+         6<sup>2</sup> = 36<br />
+         7<sup>2</sup> = 49<br />
+         8<sup>2</sup> = 64<br />
+         9<sup>2</sup> = 81<br />
+         10<sup>2</sup> = 100
+        </body>
+        <html>
+            <header><titile>Assignment Unit 3 webdevelope</titile></head>
+
+        <body>
+            <b>The best place to visit in the World 2022</b>
+            <ol>
+            <li>The Caribbean</li>
+            <li>Central and South America</li>
+            <li>Alberta, Canada</li></ol>
+            <li>Paris, Europe</li>
+            <b>Best Developer tools 2022</b><ul type="circle">
+            <li>Stackoverflow</li>
+            <li>Jenkins</li>
+            <li>Confluence</li>
+            <li>GitLab</li>
+            <li>Gleek</li></ul>
+            </body>
+            </html>
+
+            <html>
+                <header><titile>Assignment Unit webdevelope</titile></head>
+                <body>
+                    <i>
+                    <address>Dilbert H.<br />
+                        1234 Anim Street<br/>
+                        P.O. Box 22222</address>
+                        <br /><br />
+                        <i> <center>
+                        
+                            <address> Someone A. Person <br />
+                                5555 Street Avenue  <br/>
+                                Metrpolitan, Metropolis 11111</address>
+                            </i></center>
+                         </body
+                         </html
+
+
+
+                            <!DOCTYPE html>
+
+                            <html>
+        
+                            
+                                <head>
+                            <title>Paradise Nature</title>
+                                </head>
+                                <body>
+                                    <div id="home center"
+                                    <nav>
+                                        <nav    <ol>
+                                
+                                        <a href="#" id ="home">Home</a> <br/>
+                            <a href="#footer">End of Page</a>
+                            </nav>
+                            <article> 
+                            <h1>Welcome To Paradise </h1>
+                            <h3><strong> personalized Trip Planning successful vacation 
+                                Getting to Greenland by Boat</strong></h3><br />
+                            
+                            
+                            <p><strong>
+                                Using commercial cruise ships with origins in either Canada or the U.S., I travelled to Greenland. These routes would enable travellers to stay longer in Greenland and explore the nation on their own or as part of a pre-planned trip.
+                            
+                            Located in the heart of the Nouth Pacific Ocean, distant from the entire planet.
+                            
+                            It is among the most well-known romantic destinations in the world. It has a dormant volcano surrounded by a lush, beautiful landscape.
+                            
+                            This is the ideal place to unwind and relax. Although excessive in its splendour, it is beautiful and connected to nature.
+                            
+                            </strong>
+                            
+                                    </nav>
+                                    . </p>
+                                </article>
+                                <footer id="footer"> 
+                                <a href="#home">Top of Page</a> <br/>
+                                </footer>
+                                </div>
+                                </body>
+                                </html>
+                                
+                            
+                                </body>
+                            
+                            
+        
