@@ -1,7 +1,7 @@
-assignment.html<!DOCTYPE html>
+Project112.html<!DOCTYPE html>
 <html>
 <head>
-    <titile>Assignment Unit 3 webdevelope</titile>
+    <titile>NewProject Unit  webdevelope</titile>
 </head>
 <body>
     <font color="blue">1</font>
@@ -14,6 +14,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.">5</font>
+
 <font color="red">6</font>
 <font color="laborum">7</font>
 <font color="darkred">8</font>
@@ -39,7 +40,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.">5</fon
          10<sup>2</sup> = 100
         </body>
         <html>
-            <header><titile>Assignment Unit 3 webdevelope</titile></head>
+            <header><titile>NewProject Unit webdevelope</titile></head>
 
         <body>
             <b>The best place to visit in the World 2022</b>
@@ -58,7 +59,7 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.">5</fon
             </html>
 
             <html>
-                <header><titile>Assignment Unit webdevelope</titile></head>
+                <header><titile>NewProject Unit webdevelope</titile></head>
                 <body>
                     <i>
                     <address>Dilbert H.<br />
